@@ -1,0 +1,4 @@
+- name: creation de repertoire
+  shell:
+    cmd: mkdir -p /home/omy/anibleJenkins
+
